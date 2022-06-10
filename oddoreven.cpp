@@ -16,7 +16,7 @@ int main()
     cin>>a;
     if(isEven(a))
     {
-        cout<<"number is even ";
+        cout<<"number is even";
     }
     else {
         cout<<" number is odd";
