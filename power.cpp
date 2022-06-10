@@ -16,7 +16,7 @@ int main()
 {
     int a,b;
     cin>>a>>b;
-    int pow =  power(a,b);
+    int pow = power(a,b);
     cout<< pow;
     return 0;
 }
