@@ -13,7 +13,7 @@ int isEven(int a)
 int main()
 {
     int a;
-    cin>>a;
+    cin >> a;
     if(isEven(a))
     {
         cout<<"number is even";
