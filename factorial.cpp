@@ -17,7 +17,7 @@ int main()
 {
     int n,r;
     int num = factorial(n);
-    int mul = factorial(r)*factroial(n-r);
+    int mul = factorial(r)*factorial(n-r);
     int ans = num/mul;
     cout<<"the factorial of "<<n <<" "<<r<<"is" <<ans;
 }
